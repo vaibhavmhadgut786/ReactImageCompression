@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactImageCompression/static/css/main.04179b6f.css",
+    "main.js": "/ReactImageCompression/static/js/main.62ee99fc.js",
+    "static/js/787.93b16dda.chunk.js": "/ReactImageCompression/static/js/787.93b16dda.chunk.js",
+    "index.html": "/ReactImageCompression/index.html",
+    "main.04179b6f.css.map": "/ReactImageCompression/static/css/main.04179b6f.css.map",
+    "main.62ee99fc.js.map": "/ReactImageCompression/static/js/main.62ee99fc.js.map",
+    "787.93b16dda.chunk.js.map": "/ReactImageCompression/static/js/787.93b16dda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.62ee99fc.js"
+  ]
+}
